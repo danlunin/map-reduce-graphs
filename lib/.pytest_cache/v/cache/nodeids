@@ -1,0 +1,22 @@
+[
+  "test_public2.py::test_dummy_map",
+  "test_public2.py::test_lower_case",
+  "test_public2.py::test_filtering_punctuation",
+  "test_public2.py::test_splitting",
+  "test_public2.py::test_product",
+  "test_public2.py::test_filter",
+  "test_public2.py::test_projection",
+  "test_public2.py::test_dummy_reduce",
+  "test_public2.py::test_top_n",
+  "test_public2.py::test_term_frequency",
+  "test_public2.py::test_counting",
+  "test_public2.py::test_sum",
+  "test_public2.py::test_simple_sort",
+  "test_public2.py::test_complex_sort",
+  "test_public2.py::test_simple_join",
+  "test_public2.py::test_inner_join",
+  "test_public2.py::test_outer_join",
+  "test_public2.py::test_left_join",
+  "test_public2.py::test_right_join",
+  "test_public2.py::test_simple_join_with_collision"
+]
